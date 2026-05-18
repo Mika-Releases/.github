@@ -39,9 +39,12 @@
 
 - [Android Open Source Project](https://android.googlesource.com/)
 - [LineageOS](https://github.com/LineageOS)
+- [AviumUI](https://github.com/AviumUI)
 - [GrapheneOS](https://github.com/GrapheneOS)
 - [Yaoyoro Project](https://github.com/yaoyoro-pj)
+- [AfterlifeOS](https://github.com/AfterlifeOS)
 - [Mi Thorium](https://github.com/Mi-Thorium)
+- [Project Nightcord](https://github.com/Project-Nightcord)
 - [xiaomi-msm8953-devs](https://github.com/xiaomi-msm8953-devs)
 - [Windbell Project](https://github.com/windbell-project)
 - some friends who taught & guided me all this time "39"

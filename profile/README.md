@@ -31,6 +31,7 @@
 - Mi 5x (Tiffany)
 - Redmi 4 Prime (Markw)
 - Redmi 5 (Rosy)
+- MiThoriumSSI (for All Mithorium device Support)
 
 ### Rom Support List
 - LineageOS Unofficial

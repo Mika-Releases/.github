@@ -32,6 +32,12 @@
 - Redmi 4 Prime (Markw)
 - Redmi 5 (Rosy)
 
+### Rom Support List
+- LineageOS Unofficial
+- AviumUI Unofficial
+- Miku UI Unofficial
+- exTHmUI Unofficial
+
 ### Maybe what you need
 - [Manifest](https://github.com/Project-Nightcord/manifesto)
 
@@ -43,6 +49,10 @@
 - [GrapheneOS](https://github.com/GrapheneOS)
 - [Yaoyoro Project](https://github.com/yaoyoro-pj)
 - [AfterlifeOS](https://github.com/AfterlifeOS)
+- [Miku UI](https://github.com/Miku-UI)
+- [exTHmUI](https://github.com/exthmui)
+- [Yuyuko AOSP Mod](https://github.com/YuyukoAOSPMod)
+- [exTHmUI-legacy](https://github.com/exthmui-legacy)
 - [Mi Thorium](https://github.com/Mi-Thorium)
 - [Project Nightcord](https://github.com/Project-Nightcord)
 - [xiaomi-msm8953-devs](https://github.com/xiaomi-msm8953-devs)

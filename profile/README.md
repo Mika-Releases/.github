@@ -22,8 +22,15 @@
 - Redmi S2/Y2 (YSL & YSL_4_19)
 - Redmi 5 Plus (VINCE & VINCE_4_19)
 - Redmi Note 4 (MIDO & MIDO_4_19)
-- Mi MAX 2 (OXYGEN)
-- Redmi 7 (ONC)
+- Redmi Note 3 (Kenzo/Kate) "WIP msm-4.19 for msm8956"
+- Redmi Note 11 (Spes/n) "still not interested in working on msm-5.15 on this device"
+- Redmi 6/6a (Certus) "last updated on android 13"
+- Redmi 13C (Gale) "have it but not interested yet"
+- Poco C71 (Serenity) "have it but not interested yet"
+- Itel S23 (S665L) "have it but not interested yet"
+- Mi 5x (Tiffany)
+- Redmi 4 Prime (Markw)
+- Redmi 5 (Rosy)
 
 ### Maybe what you need
 - [Manifest](https://github.com/Project-Nightcord/manifesto)

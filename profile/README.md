@@ -41,6 +41,9 @@
 - [LineageOS](https://github.com/LineageOS)
 - [GrapheneOS](https://github.com/GrapheneOS)
 - [Yaoyoro Project](https://github.com/yaoyoro-pj)
+- [Mi Thorium](https://github.com/Mi-Thorium)
+- [xiaomi-msm8953-devs](https://github.com/xiaomi-msm8953-devs)
+- [Windbell Project](https://github.com/windbell-project)
 - some friends who taught & guided me all this time "39"
 
 ### Last

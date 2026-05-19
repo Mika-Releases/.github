@@ -39,9 +39,6 @@
 - Miku UI Unofficial
 - exTHmUI Unofficial
 
-### Maybe what you need
-- [Manifest](https://github.com/Project-Nightcord/manifesto)
-
 ## Credits
 
 - [Android Open Source Project](https://android.googlesource.com/)

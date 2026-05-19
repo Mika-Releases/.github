@@ -16,7 +16,7 @@
 ```
 
 > [!NOTE]
-> All builds published on this page have support for [over-the-air (OTA)](https://source.android.com/docs/core/ota) updates.
+> All versions published on this page are personal, please do not mirror this release and keep it original.
 
 ### Support Devices
 - Redmi S2/Y2 (YSL & YSL_4_19)
